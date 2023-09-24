@@ -7,6 +7,7 @@ Atari-style adventure game by Dan Kretschmer / ArchXpress Games 2023
 Welcome to the Adventure Game! This is a game based on the Atari game Adventure. Collect the crown to win. Are you ready for an epic adventure? This game was written in Python using the Pygame library. 
 
 ## Getting Started
+Download and extract the zip folder, open game.exe
 git clone https://github.com/DanKretschmer/Adventure_2601
 
 cd Adventure_2601
@@ -43,4 +44,3 @@ We welcome contributions to improve and enhance the game. If you'd like to contr
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Music by Lightyeartraxx, https://pixabay.com/users/lightyeartraxx-26697863/, Pixabay Content License
-
